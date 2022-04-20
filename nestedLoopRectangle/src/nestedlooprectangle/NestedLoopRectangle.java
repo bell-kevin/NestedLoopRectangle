@@ -6,8 +6,8 @@
 package nestedlooprectangle;
 
 /**
- * NestedLoopRectangle.java Dean & Dean
- *
+ * NestedLoopRectangle.java 
+ * Dean & Dean
  * This program uses nest looping to draw a rectangle
  *
  * @author 4800590195
